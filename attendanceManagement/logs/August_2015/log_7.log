@@ -1,0 +1,30 @@
+==================================================================================
+II    Time(12 Hr)     Request
+==================================================================================
+
+II      11:20 AM      Web Login  
+II      11:20 AM      Email    : admin@meddic.com
+II      11:20 AM      Pass     : admin
+
+II      11:24 AM      Update Word  
+II      11:24 AM      Word    : import_demo1
+
+II      11:26 AM      Update Word  
+II      11:26 AM      Word    : import_demo1
+
+II      11:26 AM      Update Word  
+II      11:26 AM      Word    : import_demo1
+
+II      11:27 AM      Update Word  
+II      11:27 AM      Word    : import_demo1
+
+II      11:27 AM      Android Push Notification  
+II      11:27 AM      Resp   : {"multicast_id":7764292222019204478,"success":1,"failure":0,"canonical_ids":1,"results":[{"registration_id":"APA91bFQz8KVytm2NenGZ5n2pY7DBKOqjgurI9z7nxgYbrsbAvI0WR_XUboKWLWCvHhRLO_xOKyKE1zOxAl2Jozk4mvI3j3csoXNUM0QgcHMvLZVzjdFdDMwyjJcG102E2MpjgpPJHE8","message_id":"0:1438927009334722%7edeb16cf9fd7ecd"}]}
+II      11:27 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:27 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:27 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      11:27 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 469 bytes.
+II      11:27 AM      Message       :  INFO: Disconnected.
+
+II      11:27 AM      Ios Push Notification  
+II      11:27 AM      Token       :  dc63ba48f8a3cfd73054785e7c85378e30e80ff7306c23e6c9ef55d7572d995e - 0

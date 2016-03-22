@@ -1,0 +1,109 @@
+==================================================================================
+II    Time(12 Hr)     Request
+==================================================================================
+II      10:25 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:25 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:25 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:25 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 110 bytes.
+II      10:25 AM      Message       :  INFO: Disconnected.
+II      10:25 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:25 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:25 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:25 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:25 AM      Message       :  INFO: Disconnected.
+II      10:30 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:30 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:30 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:30 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:32 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:32 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:32 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:32 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:32 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:32 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:32 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:32 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:35 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:35 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:35 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:35 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:42 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:42 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:42 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:42 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:50 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:50 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:50 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:50 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:52 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:52 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:52 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:52 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:53 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:53 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:53 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:53 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:53 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:54 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:54 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:54 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:55 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:55 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:55 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:55 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:55 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:55 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:55 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:55 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:56 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      10:56 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      10:56 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      10:56 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 108 bytes.
+II      10:56 AM      Message       :  INFO: Disconnected.
+II      11:41 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:41 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:41 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      11:41 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 110 bytes.
+II      11:41 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 110 bytes.
+II      11:43 AM      Message       :  ERROR: Unable to send message ID 1: Internal error (0 bytes written instead of 110 bytes) (999).
+II      11:43 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #2: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (2/3): 110 bytes.
+II      11:43 AM      Message       :  ERROR: Unable to send message ID 1: Internal error (0 bytes written instead of 110 bytes) (999).
+II      11:43 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #3: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (3/3): 110 bytes.
+II      11:43 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 110 bytes.
+II      11:43 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 110 bytes.
+II      11:43 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #1: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (1/3): 110 bytes.
+II      11:43 AM      Message       :  ERROR: Unable to send message ID 1: Internal error (0 bytes written instead of 110 bytes) (999).
+II      11:43 AM      Message       :  INFO: Disconnected.
+II      11:43 AM      Message       :  INFO: Trying tls://gateway.push.apple.com:2195...
+II      11:43 AM      Message       :  INFO: Connected to tls://gateway.push.apple.com:2195.
+II      11:43 AM      Message       :  INFO: Sending messages queue, run #2: 1 message(s) left in queue.
+II      11:43 AM      Message       :  STATUS: Sending message ID 1 [custom identifier: unset] (2/3): 110 bytes.
+II      11:43 AM      Message       :  INFO: Disconnected.
+
+II      12:23 PM      Ios Push Notification  
+II      12:23 PM      Token       :  5e762cb964ac01dca128b4ee0290d811960caf55b5f5563a47b013d1264633d9 - 0
+II      12:23 PM      Token       :  5e762cb964ac01dca128b4ee0290d811960caf55b5f5563a47b013d1264633d9 - 0

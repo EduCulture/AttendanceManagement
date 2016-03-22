@@ -1,0 +1,28 @@
+==================================================================================
+II    Time(12 Hr)     Request
+==================================================================================
+
+II      06:02 PM      Web Login  
+II      06:02 PM      Email     : admin@meddic.com
+II      06:02 PM      Pass      : admin\
+II      06:03 PM      Status     : 0
+
+II      06:03 PM      Web Login  
+II      06:03 PM      Email     : admin@meddic.com
+II      06:03 PM      Pass      : admin
+II      06:03 PM      Status     : 1
+
+II      06:18 PM      Insert Word  
+II      06:18 PM      Word    : sdaadasdasdas
+
+II      06:21 PM      Update Word  
+II      06:21 PM      Word    : sdaadasdasdas
+
+II      06:23 PM      Update Word  
+II      06:23 PM      Word    : sdaadasdasdas
+
+II      06:24 PM      Update Word  
+II      06:24 PM      Word    : sdaadasdasdas
+
+II      06:26 PM      Update Word  
+II      06:26 PM      Word    : sdaadasdasdas
